@@ -20,7 +20,11 @@ sudo easy_install twitter
 # by typing later:
 #twitter -e youremailaddress@email.com set "Hello World"
 
+#set up email
+sudo apt-get install ssmtp mailutils mpack
 
+## NOTE: You will still need to set up the email settings
+## see https://github.com/gskielian/Modular-Robotics/Email/README.md for instructions
 
-
-
+#Set up Arduino Stuff
+sudo easy_install pyserial
