@@ -28,3 +28,12 @@ sudo apt-get install ssmtp mailutils mpack
 
 #Set up Arduino Stuff
 sudo easy_install pyserial
+
+
+
+
+echo -e "type in: \n \n twitter -e youremailaddress@email.com set 'Hello World' \n \n to complete twitter setup"
+echo -e "\n\n then go to \n\n https://github.com/gskielian/Modular-Robotics/Email/README.md \n\n for mail setup instructions"
+
+
+
