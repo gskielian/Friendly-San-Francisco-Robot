@@ -15,6 +15,6 @@ I need help with this project. I'm looking for skilled hackers to help me with t
 * tweet
 * raspicam
 * gps
-~~*locomotion~~
+* ~~locomotion~~ politeness
 
 Follow me on twitter: https://twitter.com/FriendlySFRobot
