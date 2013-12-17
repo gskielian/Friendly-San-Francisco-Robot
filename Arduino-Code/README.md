@@ -7,4 +7,4 @@ Many thanks to Adafruit for their awesome GPS Library!
 
 Todo:
 
-- write a better readme.md
+- write a descriptive readme
