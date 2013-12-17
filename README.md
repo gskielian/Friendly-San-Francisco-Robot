@@ -17,3 +17,7 @@ I need help with this project. I'm looking for skilled hackers to help me with t
 * ~~locomotion~~ politeness
 
 Follow your Friendly SF Robot on twitter: https://twitter.com/FriendlySFRobot
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gskielian/friendly-san-francisco-robot/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
